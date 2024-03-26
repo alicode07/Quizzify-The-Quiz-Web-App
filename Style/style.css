@@ -222,10 +222,10 @@ body
 
 .footerDis
 {
-  position: absolute;
-  top: 365vh;
+  position: relative;
+  top:184vh;
   width: 100%;
-  height: 5vh;
+  height: 4vh;
   display:block;
   background-color: #ecefd4;
  
@@ -233,7 +233,8 @@ body
 .footerDis #copyRight
 {
   text-align: center;
-  padding: 5px 10px;
+  /* padding: 5px 10px; */
+  padding-top: 2px;
 }
 
 
